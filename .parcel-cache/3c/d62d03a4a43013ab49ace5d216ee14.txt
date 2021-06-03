@@ -1,0 +1,17 @@
+16
+41C:\Users\99137\Desktop\pikachu\.gitignore132671819266456975 0
+36C:\Users\99137\Desktop\pikachu\.idea132671819346415190 1
+35C:\Users\99137\Desktop\pikachu\dist132671819591449027 1
+48C:\Users\99137\Desktop\pikachu\.idea\pikachu.iml132671819346415190 0
+41C:\Users\99137\Desktop\pikachu\src\css.js132671818096665627 0
+34C:\Users\99137\Desktop\pikachu\src132671818096821938 1
+57C:\Users\99137\Desktop\pikachu\dist\index.3fafb3e2.js.map132671819591439039 0
+53C:\Users\99137\Desktop\pikachu\dist\index.3fafb3e2.js132671819591389015 0
+45C:\Users\99137\Desktop\pikachu\src\index.html132671818096665627 0
+48C:\Users\99137\Desktop\pikachu\.idea\modules.xml132671816606637235 0
+43C:\Users\99137\Desktop\pikachu\src\index.js132671817639214142 0
+53C:\Users\99137\Desktop\pikachu\dist\index.cb5aac56.js132671818460213617 0
+57C:\Users\99137\Desktop\pikachu\dist\index.cb5aac56.js.map132671818460381869 0
+46C:\Users\99137\Desktop\pikachu\dist\index.html132671819591389015 0
+47C:\Users\99137\Desktop\pikachu\.idea\.gitignore132671816609163502 0
+50C:\Users\99137\Desktop\pikachu\.idea\workspace.xml132671819268019956 0
